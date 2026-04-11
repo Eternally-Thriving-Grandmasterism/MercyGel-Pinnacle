@@ -2,6 +2,9 @@
 MercyGel: a clean, high-fat, low-carb, electrolyte-rich gel engineered for sustained energy, mental clarity, and pure joy in every bite.  
 No artificial junk. Natural ingredients only. Designed for everyone — from keto warriors to families seeking wholesome fuel.
 
+**License Update — April 11 2026**  
+This project was previously under MIT. As of April 11 2026, it is now under the **Autonomicity Games Sovereign Mercy License (AG-SML)**. New code and future distributions are protected. Past MIT forks remain MIT. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
+
 ## Core Design Principles
 - Ketogenic macros: \~78% fat, \~17% protein, ≤5% net carbs
 - Mercy valence: smooth, delicious, uplifting — no bitterness, no GI distress
